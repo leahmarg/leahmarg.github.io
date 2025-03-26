@@ -1,0 +1,19 @@
+{
+    "name": "html-css",
+    "version": "1.0.0",
+    "description": "A template for HTML and CSS",
+    "main": "index.html",
+    "scripts": {
+      "start": "npx vite"
+    },
+    "keywords": [
+      "html",
+      "css"
+    ],
+    "author": "Ives van Hoorne",
+    "license": "MIT",
+    "devDependencies": {
+      "vite": "6.2.1"
+    }
+  }
+  
