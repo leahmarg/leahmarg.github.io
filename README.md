@@ -1,1 +1,1 @@
-# (https://leahmarg.ca/)
+# https://leahmarg.ca/
