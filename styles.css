@@ -151,6 +151,11 @@ footer a:hover {
   text-decoration: underline;
 }
 
+footer a:visited {
+  color: var(--accent-green);
+}
+
+
 footer .thanks {
   font-size: 1.5rem;
   font-style: italic;
